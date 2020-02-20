@@ -1,0 +1,26 @@
+{
+    "root": "/Users/huanqingxu/Desktop/repos/DS-Unit-4-Sprint-2-Neural-Networks",
+    "program": "<python with no main file>",
+    "git": {
+        "remote": "https://github.com/sarahxu087/DS-Unit-4-Sprint-2-Neural-Networks.git",
+        "commit": "6c0282d64348ef65e530b497f00de70d7ce02fed"
+    },
+    "email": null,
+    "startedAt": "2020-02-20T18:44:34.512145",
+    "host": "Huanqings-iMac.local",
+    "username": "huanqingxu",
+    "executable": "/Users/huanqingxu/opt/anaconda3/envs/U4-S2-NN-1/bin/python",
+    "os": "Darwin-19.2.0-x86_64-i386-64bit",
+    "python": "3.7.0",
+    "cpu_count": 6,
+    "args": [
+        "-f",
+        "/Users/huanqingxu/Library/Jupyter/runtime/kernel-e9f9367e-a60e-4abb-ab8b-e4bc0ceb0417.json"
+    ],
+    "state": "running",
+    "jobType": null,
+    "mode": "run",
+    "name": "swift-river-18",
+    "project": "ds10_inclass",
+    "heartbeatAt": "2020-02-20T18:58:40.799240"
+}
